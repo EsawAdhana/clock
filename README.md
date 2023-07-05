@@ -1,1 +1,1 @@
-This is my project. I hope you enjoy.
+I made a really simple analog clock using Stanford University's colors!
